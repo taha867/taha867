@@ -1,4 +1,4 @@
-
+![Header](./banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Taha</h1>
 <h3 align="center">A passionate Computer Science Student from Pakistan</h3>
 
