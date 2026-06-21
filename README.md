@@ -1,6 +1,6 @@
 <img src="https://github.com/taha867/taha867/blob/main/banner.jpg" alt="Header" width="950" height="300"/>
 
-<h1 align="center">Hi 👋, I'm Muhammad Taha</h1>
+<h1 align="center">Hi 👋, I'm Javeed Awaan</h1>
 <h3 align="center">A passionate Computer Science Student from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
