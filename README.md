@@ -1,7 +1,7 @@
 <img src="https://github.com/taha867/taha867/blob/main/banner.jpg" alt="Header" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Muhammad Taha</h1>
-<h3 align="center">🚀 Full-Stack Developer | AI Enthusiast | Problem Solver</h3>
+<h3 align="center">🚀 Full-Stack Developer | AI Engineer | System Builder</h3>
 
 <img align="right" alt="coding" width="380" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
@@ -14,11 +14,10 @@
 
 ## 🚀 About Me
 
-* 💻 Full-Stack Developer specializing in **MERN & scalable web apps**
-* 🤖 Experienced in integrating **AI/LLMs into real-world applications**
-* 🧠 Strong understanding of **system design & clean architecture**
-* ⚡ Focused on **performance, scalability, and clean code**
-* 🌍 Based in Pakistan, working globally
+* 💻 Full-Stack Developer building scalable applications
+* 🤖 Specialized in **AI systems (RAG, Agents, LLM apps)**
+* ⚡ Focused on **performance, clean architecture & UX**
+* 🌍 Open to global opportunities
 
 ---
 
@@ -39,66 +38,53 @@
 
 ### 💻 Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge\&logo=tailwind-css)
+React.js • Next.js • HTML5 • CSS3 • Tailwind • JavaScript • TypeScript
 
 ### ⚙️ Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
+Node.js • Express.js • NestJS • PHP • Laravel • Shopify • FastAPI
 
 ### 🗄️ Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase)
+MongoDB • MySQL • PostgreSQL • pgvector • Firebase
 
-### 🤖 AI / Data
+### 🤖 AI / LLM Engineering
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
+LangChain • LangGraph • RAG • MCP • Agentic Workflows • Claude Code
 
-### 🧰 Tools
+### 🧰 Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma)
+Git • GitHub • Postman • Linux • Figma • Jira • Trello • Vercel
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (FIXED ✅)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taha867&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=taha867&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taha867&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=taha867&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taha867&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taha867&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
 
-## 🧠 What I Do
+## 🧠 What I Build
 
-* Build full-stack web applications
-* Design scalable backend systems
-* Integrate AI into products (chatbots, automation, workflows)
-* Optimize performance & user experience
+* Full-stack SaaS apps
+* AI chatbots (RAG pipelines)
+* Automation systems & workflows
+* Scalable backend architectures
 
 ---
 
 ## ⚡ Fun Fact
 
-> I don’t just write code — I design systems that solve real problems.
+> I build systems that think, not just apps that run.
 
 ---
