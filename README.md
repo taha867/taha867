@@ -58,18 +58,18 @@ Git • GitHub • Postman • Linux • Figma • Jira • Trello • Vercel
 
 ---
 
-## 📊 GitHub Stats (FIXED ✅)
+## 📊 GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taha867&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=taha867&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=taha867&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=taha867&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taha867&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=taha867&layout=compact&theme=tokyonight" />
 </p>
 
 ---
