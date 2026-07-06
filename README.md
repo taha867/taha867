@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/github/followers/taha867?label=Followers&style=social" />
 </p>
 
----
 
 ## 🚀 About Me
 
@@ -19,7 +18,6 @@
 * ⚡ Focused on **performance, clean architecture & UX**
 * 🌍 Open to global opportunities
 
----
 
 ## 🌐 Connect With Me
 
@@ -32,7 +30,6 @@
 </a>
 </p>
 
----
 
 ## 🛠️ Tech Stack
 
@@ -56,7 +53,6 @@ LangChain • LangGraph • RAG • MCP • Agentic Workflows • Claude Code
 
 Git • GitHub • Postman • Linux • Figma • Jira • Trello • Vercel
 
----
 
 ## 📊 GitHub Stats 
 
@@ -72,7 +68,6 @@ Git • GitHub • Postman • Linux • Figma • Jira • Trello • Vercel
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=taha867&layout=compact&theme=tokyonight" />
 </p>
 
----
 
 ## 🧠 What I Build
 
@@ -81,7 +76,6 @@ Git • GitHub • Postman • Linux • Figma • Jira • Trello • Vercel
 * Automation systems & workflows
 * Scalable backend architectures
 
----
 
 ## ⚡ Fun Fact
 
