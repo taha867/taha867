@@ -1,6 +1,6 @@
 <img src="https://github.com/taha867/taha867/blob/main/banner.jpg" alt="Header" width="100%"/>
 
-<h1 align="center">Hi 👋, I'm Javed Awan</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Taha</h1>
 <h3 align="center">🚀 Full-Stack Developer | AI Engineer | System Builder</h3>
 
 <img align="right" alt="coding" width="380" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
